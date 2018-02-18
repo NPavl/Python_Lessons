@@ -1,6 +1,5 @@
 # Ignore everything
 *
 # But not these files...
-Les_1.py
-DZ_1.py
+!Lessons/*
 # etc...
