@@ -1,5 +1,5 @@
 # Ignore everything
-*
+.idea/*
 # But not these files...
-!Lessons/*
+#!Lessons/*
 # etc...
