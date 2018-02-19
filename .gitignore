@@ -1,5 +1,5 @@
 # Ignore everything
-.idea/*
+.idea/
 # игнорируем каталог и все файлы в ней (тренеровочные)
 UNS_folder/
 # But not these files...
