@@ -1,6 +1,6 @@
 # Домашнее задание
 
-
+;LADF;LKDG;LSDF;LF';LF';L';L'
 
 # data = """
 George Washington, 1789-1797
