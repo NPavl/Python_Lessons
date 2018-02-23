@@ -35,21 +35,22 @@ print(countriesofasia) # {'Azerbaijan': 'Baku', 'Armenia': 'Yerevan', 'Afghanist
 # .keys - извлечение только ключей из словаря
 # dict.keys()
 print('=' * 5)
-#print(asia.keys())
+print(asia.keys()) # dict_keys(['Azerbaijan', 'Armenia', 'Afghanistan'])
 
 asiaclone = asia.keys()
-print(asiaclone)  # dict_keys(['Azerbaijan', 'Armenia', 'Afghanistan'])
+print(asiaclone)   # dict_keys(['Azerbaijan', 'Armenia', 'Afghanistan'])
 
-#__________________________________
+#___________________________________
 #Новый метод:
 # .values - извлечение только значений из словаря
 # dict.values()
 print('=' * 5)
-#print(asia.values())
+print(asia.values()) # dict_values(['Baku', 'Yerevan', 'Kabul'])
 
 asiavalues = asia.values()
 print(asiavalues)  # dict_values(['Baku', 'Yerevan', 'Kabul'])
 
+#____________________________________
 #Новый метод:
 # .get - извлечение пар ключ-знаение, возможность выполнения действий в случае, если пары ключ-значение отсутствуют
 
