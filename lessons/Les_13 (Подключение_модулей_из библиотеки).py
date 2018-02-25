@@ -1,12 +1,16 @@
-# help('modules') посмотреть список всех загруженных модулей
-
+# help('modules') посмотреть список всех загруженных модулей https://itproger.com/course/python/16
 # https://pythonworld.ru/osnovy/rabota-s-modulyami-sozdanie-podklyuchenie-instrukciyami-import-i-from.html
-
 # http://pythonicway.com/python-modules  Модули в Python https://pythoner.name/index.php/documentation/tutorial/modules
 
 # Подключение модуля из стандартной библиотеки:
 # https://www.youtube.com/watch?v=GpJRYkzwlpk  Подключение модулей - import modules
 # Работа с модулями: создание, подключение инструкциями import и from
+
+# help('modules') посмотреть спиков всех установленных модулей
+
+
+
+
 
 #______________________________________________________________________________________________________________
 #Стандартные модули
