@@ -34,7 +34,8 @@
 # для начала импортиум сандартную библиотеку , для импортирования какого либо модуля нам необходимо
 # исп ключевое слово import после чего нам необходимо назвать его
 
-import math
+import math # https://pythonworld.ru/moduli/modul-math.html модуль предоставляет обширный
+            # функционал для работы с числами.
 print (math.e) # 2.718281828459045  (просто выводим какое то число)
 print (math.pi) # 3.141592653589793 (просто выводим какое то число)
 print (math.cos (1)) # 0.5403023058681397 или такое cos числа 1
@@ -43,7 +44,7 @@ print (math.cos (1)) # 0.5403023058681397 или такое cos числа 1
 # подключаем две библиотеки через запятую time и os , так мы можем подключать и другие модули сколко нам нужно.
 #  по совету автора лучше подлючать каждую библиоеку через пробел
 import time
-import os
+import os #  Модуль os:  Модуль os предоставляет множество функций для работы с операционной системой,
 import platform
 import random as r # (as r означает что я обраился к анному модулю через псевдоним теперь мы можем обращаться к нему
                    # через r )
@@ -99,6 +100,9 @@ print (a (45, 15)) # 60
 
 
 #_________________________________________________________________________________________________________
+# стандартная библиотке Python
+# https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_Python
+
 # https://pythonworld.ru/osnovy/rabota-s-modulyami-sozdanie-podklyuchenie-instrukciyami-import-i-from.html
 # http://pythonicway.com/python-modules
 # Модули в Python https://pythoner.name/index.php/documentation/tutorial/modules
