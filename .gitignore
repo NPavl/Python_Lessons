@@ -1,6 +1,7 @@
 # Ignore everything
 .idea/
 trening/
+.vs/
 task_for_students_py/
 # But not these files...
 #!Lessons/*
