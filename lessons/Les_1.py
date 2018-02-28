@@ -3,5 +3,9 @@
 # Установил Pycharm версии про.
 # Установил Python версии 3.6 посморел что такое Оболочка Python (Python shell) и Interpreter (Интерпретатор Python)
 
+<<<<<<< HEAD
 22222
 111
+=======
+111 
+>>>>>>> master
